@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew bootRun",
+    "working_directory": "/home/kavia/workspace/code-generation/windows-desktop-emulator-296601-296611/kavia_backend"
+}
